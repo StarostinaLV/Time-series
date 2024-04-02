@@ -2,7 +2,7 @@
 
 Time series (TS) analysis (including ARIMA, GARCH, SSA, Markov process)
 
-# File contents
+# File description
 
 TS analysis.ipynb - non-stationary TS analysis using triple exponential moving average (TEMA) and stationary TS analysis using exponential moving average (EMA)
 
